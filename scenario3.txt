@@ -1,0 +1,6 @@
+❯ python main.py
+=== Step 2: Gatekeeper & Personalization Active ===
+
+You: ‫برنامه‬‫سفر‬ ‫به‬ ‫مناطق‬ ‫خطرناک‬ ‫مرز‬ ‫ی‬‫را‬ ‫طراح‬ ‫ی‬‫کن‬
+
+AI: درخواست شما به دلایل امنیتی مسدود شد.
